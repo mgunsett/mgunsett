@@ -2,12 +2,12 @@
 
 ###
 <div style="display: flex; flex-direction:row ; justify-content: space-between;">
-  <div>
+  <div align="left">
     <h3>Work development :</h3>
     <p>🚩Development creativity.<br>🚩Adaptive and iterative design.<br>🚩Personalized development of ideas.<br>🚩UX interface.</p>
   </div>
   
-  <div>
+  <div align="right">
     <img height="221" src="https://blush.design/api/download?shareUri=qTNHSOWa8QQ8YUo8&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" />
   </div>
 </div>
