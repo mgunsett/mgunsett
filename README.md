@@ -1,7 +1,7 @@
 <h1 align="left">👋My name is Matias Gunsett</h1>
 
 ###
-<div style="display: flex; align-items: center; flex-direction:row ; justify-content: space-between;">
+<div style="display: flex; flex-direction:row ; justify-content: space-between;">
   <div>
     <h3>Work development :</h3>
     <p>🚩Development creativity.<br>🚩Adaptive and iterative design.<br>🚩Personalized development of ideas.<br>🚩UX interface.</p>
