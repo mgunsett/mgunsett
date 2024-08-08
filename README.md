@@ -1,18 +1,19 @@
 <h1 align="left">👋My name is Matias Gunsett</h1>
 
 ###
-<table style="border: 0px;">
+<<table>
   <tr>
-    <td style="padding-right: 20px;">
+    <td style="vertical-align: top;">
       <h3>Work development :</h3>
       <p>🚩Development creativity.<br>🚩Adaptive and iterative design.<br>🚩Personalized development of ideas.<br>🚩UX interface.</p>
     </td>
-    <td align="right">
+    <!-- Espaciador para dar separación entre las celdas -->
+    <td style="width: 40px;"></td>
+    <td align="right" style="vertical-align: top;">
       <img height="221" src="https://blush.design/api/download?shareUri=qTNHSOWa8QQ8YUo8&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" />
     </td>
   </tr>
 </table>
-
 ###
 
 <h3 align="left">Technologies :</h3>
