@@ -2,11 +2,9 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img height="221" src="https://blush.design/api/download?shareUri=qTNHSOWa8QQ8YUo8&c=Skin_0%7Eedb98a&w=800&h=800&fm=png"  />
 </div>
-
-###
 
 <br clear="both">
 
