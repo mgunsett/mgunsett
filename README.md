@@ -2,13 +2,17 @@
 
 ###
 
+<div align="right">
+  <img height="221" src="https://blush.design/api/download?shareUri=qTNHSOWa8QQ8YUo8&c=Skin_0%7Eedb98a&w=800&h=800&fm=png"  />
+</div>
+
+###
+
 <h3 align="left">Work development :</h3>
 
 ###
 
-<p align="left">🚩Development creativity.<br>🚩Adaptive and iterative design.<br>🚩Personalized development of ideas.<br>🚩UX interface.</p> <div align="right">
-  <img height="221"  width="150" src="https://blush.design/api/download?shareUri=qTNHSOWa8QQ8YUo8&c=Skin_0%7Eedb98a&w=800&h=800&fm=png"  />
-</div>
+<p align="left">🚩Development creativity.<br>🚩Adaptive and iterative design.<br>🚩Personalized development of ideas.<br>🚩UX interface.</p>
 
 ###
 
