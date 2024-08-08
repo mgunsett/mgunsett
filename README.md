@@ -1,16 +1,17 @@
 <h1 align="left">👋My name is Matias Gunsett</h1>
 
 ###
-<div style="display: flex">
-  <div>
-    <h3>Work development :</h3>
-    <p>🚩Development creativity.<br>🚩Adaptive and iterative design.<br>🚩Personalized development of ideas.<br>🚩UX interface.</p>
-  </div>
-  
-  <div>
-    <img height="221" src="https://blush.design/api/download?shareUri=qTNHSOWa8QQ8YUo8&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <h3>Work development :</h3>
+      <p>🚩Development creativity.<br>🚩Adaptive and iterative design.<br>🚩Personalized development of ideas.<br>🚩UX interface.</p>
+    </td>
+    <td align="right">
+      <img height="221" src="https://blush.design/api/download?shareUri=qTNHSOWa8QQ8YUo8&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" />
+    </td>
+  </tr>
+</table>
 
 ###
 
