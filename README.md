@@ -1,9 +1,9 @@
 <h1 align="left">👋My name is Matias Gunsett</h1>
 
 ###
-<table>
+<table style="border: none">
   <tr>
-    <td>
+    <td style="padding-right: 150">
       <h3>Work development :</h3>
       <p>🚩Development creativity.<br>🚩Adaptive and iterative design.<br>🚩Personalized development of ideas.<br>🚩UX interface.</p>
     </td>
